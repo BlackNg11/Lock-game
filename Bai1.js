@@ -18,7 +18,7 @@ $(function() {
         backgroundColor: '#333'
       })
     }
-    $('small').text('Màu đỏ cần số nhỏ hơn, màu xanh cần số lớn hơn');
+    $('small').text('Màu đỏ cần số nhỏ hơn, màu xanh cần số lớn hơn,Màu xanh là đúng');
   }
 
   function openClock() {
